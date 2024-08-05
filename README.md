@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jonathan.
 - 👀 I’m interested in Embedded System, Software Development, Fullstack, AI and Backend technologies.
 - 🌱 I’m currently in my 2nd year of studying Software Engineering.
-- 📫 How to reach me - via Linkdin: [here](www.linkedin.com/in/jonathan-elgarisi) | via Discord: [here](https://discord.gg/DsfaMFJq) 
+- 📫 How to reach me - via Linkdin: [here](https://linkedin.com/in/jonathan-elgarisi) | via Discord: [here](https://discord.gg/DsfaMFJq) 
